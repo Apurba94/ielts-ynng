@@ -1,0 +1,12 @@
+{
+ "name": "ielts-ynng",
+ "title": "Yes, No or Not Given",
+ "exam": "IELTS",
+ "module": "Both",
+ "area": "Reading",
+ "desc": "Decide whether statements match the writer's views or claims, a question type about opinions rather than facts.",
+ "content": [
+  "ynng.json"
+ ],
+ "n": 22
+}
